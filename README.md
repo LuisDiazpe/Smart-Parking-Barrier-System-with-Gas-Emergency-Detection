@@ -89,11 +89,3 @@ Si el sensor MQ-135 detecta una concentración peligrosa de gas:
 - El sistema solo vuelve a la normalidad cuando el nivel de gas disminuye
 
 ---
-
-## 📊 Calibración del sensor MQ-135
-
-El valor de detección de gas se define a partir del nivel promedio de aire limpio, sumando un margen de seguridad.
-
-Ejemplo:
-```cpp
-const int GAS_PELIGRO = aire_limpio + 150;
