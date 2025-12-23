@@ -89,3 +89,14 @@ Si el sensor MQ-135 detecta una concentración peligrosa de gas:
 - El sistema solo vuelve a la normalidad cuando el nivel de gas disminuye
 
 ---
+## 🎥 Video demostrativo
+
+En el siguiente video se muestra el funcionamiento completo del sistema, incluyendo:
+
+- Apertura y cierre de la barrera con servo motor  
+- Detección de vehículos con sensor ultrasónico  
+- Activación del modo emergencia mediante sensor MQ-135  
+- Visualización de alertas en pantalla LCD  
+
+👉 **Ver video en YouTube:**  
+[![Ver demostración del sistema](https://img.youtube.com/vi/l130rysDdhg/0.jpg)](https://youtu.be/l130rysDdhg)
